@@ -1,4 +1,4 @@
-# FYNORA — Smart School FinTech Platform
+Smart School FinTech Platform
 
 > **Smart School FinTech Platform** — A modern, full-stack fee management system designed to eliminate chaotic spreadsheets for schools. Features automated UPI collections, smart Edu-EMI splits, instant reconciliation, a tamper-evident audit ledger, and a polished admin dashboard.
 
